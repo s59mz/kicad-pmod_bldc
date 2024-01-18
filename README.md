@@ -19,3 +19,6 @@ Pick&Place:
 
 Gerbers:
 [gerbers.zip](https://github.com/s59mz/kicad-pmod_bldc/raw/main/gerbers.zip)
+
+Related Tutorial:
+[Hackster - Adam Taylor](https://www.hackster.io/adam-taylor/zuboard-petalinux-motor-control-3eee98)
