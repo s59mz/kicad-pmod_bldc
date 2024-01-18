@@ -15,7 +15,7 @@ BOM:
 [kicad-pmod_bldc.csv](kicad-pmod_bldc.csv)
 
 Pick&Place:
-[kicad-pmod_bldc.pos](kicad-pmod_bldc.pos)
+[kicad-pmod_bldc_pos.csv](kicad-pmod_bldc_pos.csv)
 
 Gerbers:
 [gerbers.zip](https://github.com/s59mz/kicad-pmod_bldc/raw/main/gerbers.zip)
