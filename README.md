@@ -1,21 +1,21 @@
-# kicad-pmod_BLDC
-PMOD PCB module with DRV10983 device for driving a Brush Less DC (BLDC) Motor 
+# kicad-pmod_bldc
+PMOD PCB module with DRV10983 device for driving a Brush Less DC (bldc) Motor 
 
 
-![alt text](kicad-pmod_BLDC_3d.png)
+![alt text](kicad-pmod_bldc_3d.png)
 
-![alt text](kicad-pmod_BLDC_top.png)
+![alt text](kicad-pmod_bldc_top.png)
 
-![alt text](kicad-pmod_BLDC_bot.png)
+![alt text](kicad-pmod_bldc_bot.png)
 
 Schematic:
-[kicad-pmod_BLDC.pdf](kicad-pmod_BLDC.pdf)
+[kicad-pmod_bldc.pdf](kicad-pmod_bldc.pdf)
 
 BOM:
-[kicad-pmod_BLDC.csv](kicad-pmod_BLDC.csv)
+[kicad-pmod_bldc.csv](kicad-pmod_bldc.csv)
 
 Pick&Place:
-[kicad-pmod_BLDC.pos](kicad-pmod_BLDC.pos)
+[kicad-pmod_bldc.pos](kicad-pmod_bldc.pos)
 
 Gerbers:
-[gerbers.zip](https://github.com/s59mz/kicad-pmod_BLDC/raw/main/gerbers.zip)
+[gerbers.zip](https://github.com/s59mz/kicad-pmod_bldc/raw/main/gerbers.zip)
